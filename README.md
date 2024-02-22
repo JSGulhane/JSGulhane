@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Basic Info
-- 🎓 Studying at [MIT-WPU College]
+### About me
+- 🎓 Studying at MIT-WPU
 - 💻 Interested in full-stack development
 - ❤️ Love UI/UX design
 
